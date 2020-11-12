@@ -4,7 +4,12 @@
 
 ## Table of Contents
 * [Description](#Description)
-
+* [Technologies](#Technologies)
+* [Features](#Features)
+* [Code](#Code)
+* [Author](#Author)
+* [Credits](#Credits)
+* [License](#License)
 
 ## Description 
 
@@ -14,6 +19,8 @@
 ## Technologies
 * [JavaScript](https://www.w3schools.com/js/)
 * [Bootstrap](https://getbootstrap.com/)
+* [React](https://reactjs.org/)
+* [ReactDom](https://reactjs.org/docs/react-dom.html)
 
 
 ## Features
