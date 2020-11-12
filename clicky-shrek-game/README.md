@@ -24,7 +24,7 @@
 
 
 ## Features
-![GIF]()
+![GIF](./public/assets/shrek.gif)
 
 # Code
 
