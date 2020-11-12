@@ -21,9 +21,9 @@
 
 # Code
 
-## Api Routes
+## App.js
 
-* 
+*  Here I am setting a state for the score, characters and a starting message. I also made a function to handle the click which randomizes the images, sets a new state to the score when ever it's clicked. This function will be called in our form below. 
 ```
  state = {
     // THIS IS STORING ALL MY JSON FILE 
@@ -73,8 +73,8 @@ if (!hasBeenClicked.includes(currentId)) {
 
   ```
 
-## Models
-* 
+## App.js Continue
+* Here we have our form. This form was created in the components folder and was given some props. We took those props here and gave them values. 
 
 ```
 

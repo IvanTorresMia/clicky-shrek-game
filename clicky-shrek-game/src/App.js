@@ -24,8 +24,6 @@ class App extends Component {
 
     console.log(hasBeenClicked);
 
-
-
 this.setState({message: "Let's play"})
 
 if (!hasBeenClicked.includes(currentId)) {
@@ -44,8 +42,6 @@ if (!hasBeenClicked.includes(currentId)) {
 
 
 }
-
-
 
       // Shuffles the array of characters
       const arr = this.state.Characters;
