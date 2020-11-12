@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clicky-shrek-game/static/css/main.67b53e76.chunk.css",
-    "main.js": "/clicky-shrek-game/static/js/main.87cca544.chunk.js",
-    "main.js.map": "/clicky-shrek-game/static/js/main.87cca544.chunk.js.map",
+    "main.js": "/clicky-shrek-game/static/js/main.8ecae566.chunk.js",
+    "main.js.map": "/clicky-shrek-game/static/js/main.8ecae566.chunk.js.map",
     "runtime-main.js": "/clicky-shrek-game/static/js/runtime-main.4d80a437.js",
     "runtime-main.js.map": "/clicky-shrek-game/static/js/runtime-main.4d80a437.js.map",
     "static/js/2.9a374292.chunk.js": "/clicky-shrek-game/static/js/2.9a374292.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4d80a437.js",
     "static/js/2.9a374292.chunk.js",
     "static/css/main.67b53e76.chunk.css",
-    "static/js/main.87cca544.chunk.js"
+    "static/js/main.8ecae566.chunk.js"
   ]
 }
